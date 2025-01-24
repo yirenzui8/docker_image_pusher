@@ -1,6 +1,6 @@
 nginx
 #支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 registry-1.docker.io/v2/library/redis/manifests/7.0.11-alpine
 xhofe/alist:latest
 #支持指定架构
